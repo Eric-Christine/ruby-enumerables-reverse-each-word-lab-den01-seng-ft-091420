@@ -20,4 +20,5 @@ end
 #use collect method below
 
 
-x = string.split(/ /) {|x| x.l
+x.map {
+  
