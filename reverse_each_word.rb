@@ -19,4 +19,5 @@ end
 
 #use collect method below
 
-string
+
+x = string.split(/ /)
