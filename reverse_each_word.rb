@@ -20,7 +20,6 @@ def reverse_each_word(string)
 #use collect method below
 
 y = []
-x.map {|x| y << x.reverse }
-
-
+x.map {|x| y.append(x.reverse) }
+y 
 end 
