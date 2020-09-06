@@ -21,5 +21,5 @@ def reverse_each_word(string)
 
 y = []
 x.map {|x| y.append(x.reverse) }
-y 
+y.join(" ") 
 end 
