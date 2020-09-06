@@ -12,7 +12,7 @@ def reverse_each_word(string)
   while count < x.length  do 
     word = x[count]
     count += 1
-    y.unshift(word.reverse)
+    y.unshift("#{word.reverse}")
   end
   y
 end
