@@ -14,5 +14,5 @@ def reverse_each_word(string)
     count += 1
     y.unshift("#{word.reverse}")
   end
-  y
+  y.join(" ")
 end
