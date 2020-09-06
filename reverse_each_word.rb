@@ -13,7 +13,6 @@ def reverse_each_word(string)
     word = x[count]
     count += 1
     y.unshift(word.reverse)
-    y
   end
- 
+  y
 end
