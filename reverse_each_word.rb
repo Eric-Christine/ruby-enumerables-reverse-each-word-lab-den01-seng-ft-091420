@@ -6,7 +6,6 @@ def reverse_each_word(string)
   
   # x is an array, now we can take each item from the array and reverse it.
   
-  
   count = 0 
   y =[]
   while count < x.length  do 
@@ -16,3 +15,7 @@ def reverse_each_word(string)
   end
   y.join(" ")
 end
+
+
+#use collect method below
+
