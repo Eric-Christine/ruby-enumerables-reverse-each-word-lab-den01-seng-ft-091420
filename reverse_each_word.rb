@@ -19,7 +19,8 @@ def reverse_each_word(string)
 
 #use collect method below
 
+y = []
+x.map {|x| y << x.reverse }
 
-x.map {|x| x.reverse}
 
 end 
