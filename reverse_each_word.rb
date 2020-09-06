@@ -9,7 +9,6 @@ def reverse_each_word(string)
   
   count = 0 
   y =[]
-  
   while count < x.length  do 
     word = x[count]
     count += 1
