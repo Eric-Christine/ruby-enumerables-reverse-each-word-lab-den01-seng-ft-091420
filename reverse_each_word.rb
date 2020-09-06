@@ -19,3 +19,4 @@ end
 
 #use collect method below
 
+string
